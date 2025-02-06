@@ -1,6 +1,6 @@
 sidebar:
   position: right
-  about: True
+  about: False
   education: True
 
   name: Vivek Ragupathy
@@ -91,6 +91,10 @@ certifications:
     organization: CNCF
   - name: CKS - Certified Kubernetes Security Specialist
     organization: CNCF
+  - name: Kubernetes and Cloud Native Associate Exam (KCNA)
+    organization: CNCF
+  - name: Kubernetes and Cloud Native Security Associate Exam (KCSA)
+    organization: CNCF
   - name: AWS Certified SysOps Administrator - Associate
     organization: AWS
   - name: Red Hat Certified Engineer (RHCE 6 & 7)
@@ -114,5 +118,3 @@ skills:
   - name: Linux Administration
     level: Expert
 
-footer: >
-  Designed and maintained by Vivek Ragupathy
