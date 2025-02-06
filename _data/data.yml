@@ -1,0 +1,118 @@
+sidebar:
+  position: right
+  about: True
+  education: True
+
+  name: Vivek Ragupathy
+  tagline: Lead DevSecOps & Site Reliability Engineer (SRE)
+  avatar: profile.jpg
+
+  email: vivekragupathy@outlook.com
+  phone: (510) 557-7748
+  timezone: America/Los_Angeles
+  citizenship: India
+  website: https://www.linkedin.com/in/vivekragupathy
+  linkedin: vivekragupathy
+  github: vivek-ragupathy
+
+  languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Professional
+    - idiom: Tamil
+      level: Native
+
+  interests:
+    title: Interests
+    info:
+    - item: Cloud Computing
+    - item: DevSecOps Automation
+    - item: Open Source Contributions
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Software Engineer with 12+ years in Kubernetes, Site Reliability Engineering, DevSecOps, and Cloud
+    Infrastructure. Proficient in AWS, container orchestration, CI/CD pipelines, and automation. Skilled at
+    leading teams to enhance infrastructure reliability, optimize performance, and reduce operational costs
+    through innovative solutions.
+
+education:
+  title: Education
+  info:
+  - degree: B.E in Computer Science and Engineering
+    university: Anna University, India
+    time: 2007 - 2011
+
+experiences:
+  title: Experiences
+  info:
+  - role: Lead Software Engineer - DevOps & Site Reliability
+    time: Oct 2021 – Dec 2024, May 2019 – Sep 2019
+    company: Poshmark Inc.
+    details: |
+      - Improved system reliability with automated failover solutions, reducing downtime by 20%.
+      - Built and managed CI/CD pipelines with Jenkins, ArgoCD, and Ansible, enhancing deployment frequency by 15%.
+      - Spearheaded Kubernetes (EKS) migration to improve scalability and deployment workflows by 25%.
+      - Implemented Terraform for infrastructure codification, reducing manual errors by 30%.
+      - Utilized Datadog, Prometheus, and Grafana for proactive monitoring, improving incident response times.
+      - Key Technologies: AWS, Kubernetes, Docker, Terraform, Jenkins, Ansible, ArgoCD, Datadog, Prometheus, ELK Stack, Teleport, Python
+  
+  - role: Middleware & DevOps Engineer (Specialist Officer)
+    time: Sep 2019 – Sep 2021
+    company: Indian Bank
+    details: |
+      - Architected IT infrastructure solutions for mission-critical applications, achieving 99.9% uptime.
+      - Introduced DevOps practices with Ansible and Jenkins, reducing deployment time by 40%.
+      - Enhanced application performance through resource optimization and proactive monitoring with Prometheus.
+      - Key Technologies: Kubernetes, Jenkins, Ansible, Scripting, Monitoring
+  
+  - role: DevOps Engineer
+    time: Sep 2015 – May 2019
+    company: DXC Technology (Kaiser Permanente Project)
+    details: |
+      - Led an offshore DevOps team for Kaiser Permanente, implementing IaC solutions to ensure consistent infrastructure environments.
+      - Integrated DevOps practices to streamline development workflows and improve release cycles using Git and Jenkins.
+      - Key Technologies: Linux, Jenkins, Nexus, Terraform, Ansible, Splunk, Python, Bash
+
+  - role: Software Engineer
+    time: Jan 2013 – Aug 2015
+    company: Birlasoft India Ltd. (GE Capital Project)
+    details: |
+      - Optimized middleware systems, ensuring reliable application performance across Linux environments.
+      - Performed Middleware administration tasks for web and application servers, reducing operational downtime by 15%.
+      - Key Technologies: Linux, WebSphere, WebLogic, Apache, Python, Shell Scripting
+
+certifications:
+  title: Certifications
+  list:
+  - name: CKA - Certified Kubernetes Administrator
+    organization: CNCF
+  - name: CKS - Certified Kubernetes Security Specialist
+    organization: CNCF
+  - name: AWS Certified SysOps Administrator - Associate
+    organization: AWS
+  - name: Red Hat Certified Engineer (RHCE 6 & 7)
+    organization: Red Hat
+
+skills:
+  title: Skills & Proficiency
+  toolset:
+  - name: AWS (EC2, IAM, EKS, RDS, S3, Route53, VPC)
+    level: Expert
+  - name: Kubernetes & Docker
+    level: Expert
+  - name: Terraform & Ansible
+    level: Expert
+  - name: Jenkins, ArgoCD, CI/CD Pipelines
+    level: Advanced
+  - name: Python & Bash Scripting
+    level: Advanced
+  - name: Monitoring - Prometheus, Grafana, Datadog, ELK
+    level: Advanced
+  - name: Linux Administration
+    level: Expert
+
+footer: >
+  Designed and maintained by Vivek Ragupathy
