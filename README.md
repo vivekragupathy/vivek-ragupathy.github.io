@@ -1,90 +1,78 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+# Vivek Ragupathy - Lead DevSecOps & Site Reliability Engineer (SRE)
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vivekragupathy)
+[![Email](https://img.shields.io/badge/Email-vivekragupathy%40outlook.com-red?style=flat&logo=gmail)](mailto:vivekragupathy@outlook.com)
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+## 🚀 About Me
 
-<table>
-  <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
-  </tr>
-  <tr>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
-  </tr>
-</table>
+Experienced **Lead DevSecOps & Site Reliability Engineer** with **12+ years** in **Kubernetes, DevSecOps, Cloud Infrastructure, and SRE**. Passionate about building **scalable, reliable, and automated** systems.
 
-## Installation
+💡 **Key Expertise:**
+- **Cloud Platforms:** AWS (EC2, IAM, S3, RDS, Route53, EKS, MSK)
+- **Containerization & Orchestration:** Kubernetes (EKS), Docker
+- **CI/CD Pipelines:** Jenkins, ArgoCD, Helm, Rundeck
+- **Infrastructure as Code:** Terraform, Ansible
+- **Monitoring & Logging:** Datadog, Prometheus, ELK Stack, Grafana, Splunk
+- **Programming & Scripting:** Python, Bash
+- **Security & Compliance:** Teleport, RBAC, IAM, Secure CI/CD practices
+- **Incident Management:** Jira, PagerDuty, ServiceNow
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository;
-* Go to settings and set master branch as Github Pages source;
-* Your new site should be ready at `https://<username>.github.io/online-cv/`;
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+---
 
-Change all the details from one place: `_data/data.yml`.
+## 📌 Work Experience
 
-### To preview/edit locally with docker
+### **Poshmark Inc. | Lead Software Engineer - DevOps & SRE**  
+📅 **Oct 2021 – Dec 2024 | May 2019 – Sep 2019**  
+- 🚀 Enhanced **system reliability** with **automated failover** (20% downtime reduction).
+- 🔄 **Optimized CI/CD** using **Jenkins, ArgoCD, and Ansible** (15% faster deployments).
+- 📦 Migrated to **Kubernetes (EKS)** improving scalability & workflows (25% efficiency gain).
+- 🏗️ Implemented **Terraform** for Infrastructure-as-Code (30% fewer manual errors).
+- 📊 **Proactive monitoring** with **Datadog, Prometheus, and Grafana**.
 
-```sh
-docker-compose up
-```
+### **Indian Bank | Middleware & DevOps Engineer**  
+📅 **Sep 2019 – Sep 2021**  
+- Architected **highly available IT infrastructure** (99.9% uptime).  
+- Implemented **Ansible + Jenkins CI/CD** (40% faster deployments).  
+- Enhanced **application performance** using **Prometheus monitoring**.
 
-*docker-compose.yml* file is used to create a container that is reachable under <http://localhost:4000>.
-Changes *_data/data.yml* will be visible after a while.
+### **DXC Technology (Kaiser Permanente) | DevOps Engineer**  
+📅 **Sep 2015 – May 2019**  
+- Led **offshore DevOps team**, implemented **Infrastructure-as-Code (IaC)**.  
+- Streamlined **development workflows** using **Git + Jenkins**.
 
-### Local machine
+### **Birlasoft India Ltd. (GE Capital) | Software Engineer**  
+📅 **Jan 2013 – Aug 2015**  
+- Optimized **middleware systems** for better application performance.  
+- Administered **WebSphere, WebLogic, Apache** (15% downtime reduction).
 
-* Get the repo into your machine 
+### **Digicliff Solutions | UI Developer**  
+📅 **Jan 2012 – Jan 2013**  
+- Developed **PHP & MySQL-based** websites.  
+- Managed hosting & performance tuning.
 
-```bash
-git clone https://github.com/sharu725/online-cv.git
-```
+---
 
-* Install required ruby gems
+## 🎓 Education & Certifications
 
-```bash
-bundle install
-```
+🎓 **Bachelor of Engineering (B.E) in Computer Science** - Anna University, India  
 
-* Serve the site locally
+🏅 **Certifications:**  
+- 🏆 **CKA** - Certified Kubernetes Administrator  
+- 🏆 **CKS** - Certified Kubernetes Security Specialist  
+- 🏆 **AWS Certified SysOps Administrator - Associate**  
+- 🏆 **Red Hat Certified Engineer (RHCE 6 & 7)**  
+- 🏆 **Programming in HTML5 with JavaScript and CSS3 Specialist**  
 
-```bash
-bundle exec jekyll serve
-```
+---
 
-* Navigate to `http://localhost:4000`
+## 📈 GitHub Stats
 
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekragupathy&show_icons=true&theme=radical)
 
-## Skins
+📫 **Reach Me At:**  
+📩 [vivekragupathy@outlook.com](mailto:vivekragupathy@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vivekragupathy)  
 
-There are 6 color schemes available:
+---
 
-| Blue | Turquoise | Green |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
-
-| Berry | Orange | Ceramic |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
-
-## Credits
-
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
-
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
-
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
-
+🚀 **Let's build scalable, secure, and automated infrastructures together!**
