@@ -95,10 +95,15 @@ certifications:
     organization: CNCF
   - name: Kubernetes and Cloud Native Security Associate Exam (KCSA)
     organization: CNCF
+  - name: CKAD - Certified Kubernetes Application Developer
+    organization: CNCF
+  - name: Kubestronaut
+    organization: CNCF
   - name: AWS Certified SysOps Administrator - Associate
     organization: AWS
   - name: Red Hat Certified Engineer (RHCE 6 & 7)
     organization: Red Hat
+
 
 skills:
   title: Skills & Proficiency
