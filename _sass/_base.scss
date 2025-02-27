@@ -130,6 +130,7 @@ p {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
       margin-bottom: 0px;
+      display: block;
     }
   }
   .languages-container {
@@ -205,7 +206,7 @@ p {
  
   .time,
   .cert-url {
-    position: absolute;
+    position: relative;
     right: 0;
     top: 0;
     color: $text-grey;
